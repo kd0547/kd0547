@@ -13,19 +13,19 @@
 ## 🔧 주요 기술 스택
 
 - **시스템 / 데스크탑**:  
-  `Rust`, `C++`, `C#`, `Tauri`, `Win32`, `WPF`
+  `Rust`, `C++`, `C#`, `WPF`
 
 - **웹 / 프론트엔드**:  
-  `React`, `TypeScript`, `Vite`, `Tailwind CSS`
+  `React`,`javaScript`,`typeScript`
 
 - **백엔드 / 서버**:  
-  `Java (Spring Boot)`, `Rust (actix-web 예정)`, `Flask`
+  `Java (Spring Boot)`, `Python (Flask)`
 
 - **데이터베이스**:  
-  `MySQL`, `PostgreSQL`, `SQLite`, `JPA`
+  `MySQL`, `JPA`
 
 - **도구 / 환경**:  
-  `Git`, `Visual Studio`, `VS Code`, `pnpm`, `Docker`
+  `Git`, `Docker`
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 🗂 기타
 - 🖥 개발 경력: 약 1년 10개월
-- 📫 Email: your.email@example.com  
+- 📫 Email: zkwlrtm1935@gmail.com 
 - 📌 포트폴리오: 준비 중 (또는 Notion / 웹 링크)
 
 > **여러 언어를 통해 다양한 개발 스타일을 경험하며,  
